@@ -1,3 +1,5 @@
-# angular-ivy-xgkegc
+# Contatore 
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-xgkegc)
+Counter made with Angular
+
+Contatore creato con Angular
